@@ -10,7 +10,7 @@ $csc = $_GET['csc'];
 
 $newcr = $amount +  $csc;
 
-$api_key = '05317261-fe70-4c6d-8024-ad3c260f518e';
+$api_key = '17153226-88f8-480d-99f4-0a4e37d817ad';
 $collection_id = 'rzwon1b_';
 $host = 'https://billplz-staging.herokuapp.com/api/v3/bills';
 
