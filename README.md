@@ -1,6 +1,6 @@
-# clofident_lastest
+# Clofident
 
-A new Flutter project.
+A Flutter project called Clofident. 
 
 ## Getting Started
 
